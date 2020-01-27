@@ -18,3 +18,6 @@ C:\Users\Ermakova_AV\Desktop\Avtorizac\Avtorizac\obj\Debug\Avtorizac.Properties.
 C:\Users\Ermakova_AV\Desktop\Avtorizac\Avtorizac\obj\Debug\Avtorizac.csproj.GenerateResource.Cache
 C:\Users\Ermakova_AV\Desktop\Avtorizac\Avtorizac\bin\Debug\Avtorizac.exe
 C:\Users\Ermakova_AV\Desktop\Avtorizac\Avtorizac\bin\Debug\Avtorizac.pdb
+C:\GITHUB\my-first-project\Avtorizac\bin\Debug\Avtorizac.exe.config
+C:\GITHUB\my-first-project\Avtorizac\obj\Debug\Avtorizac.exe
+C:\GITHUB\my-first-project\Avtorizac\obj\Debug\Avtorizac.pdb
