@@ -47,7 +47,7 @@ namespace Avtorizac
             }
             conn.Close();
         }
-
+        аааааа
         private void buttonOtpravka_Click(object sender, EventArgs e)
         {
             string serv = "server=localhost;user=root;password=;database=IdFio;";
