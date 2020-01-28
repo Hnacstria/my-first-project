@@ -38,10 +38,10 @@
             // buttonVhod
             // 
             this.buttonVhod.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.buttonVhod.Location = new System.Drawing.Point(157, 99);
-            this.buttonVhod.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
+            this.buttonVhod.Location = new System.Drawing.Point(129, 92);
+            this.buttonVhod.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.buttonVhod.Name = "buttonVhod";
-            this.buttonVhod.Size = new System.Drawing.Size(98, 38);
+            this.buttonVhod.Size = new System.Drawing.Size(81, 36);
             this.buttonVhod.TabIndex = 0;
             this.buttonVhod.Text = "Вход";
             this.buttonVhod.UseVisualStyleBackColor = true;
@@ -50,51 +50,53 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 19);
+            this.label1.Location = new System.Drawing.Point(14, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 30);
+            this.label1.Size = new System.Drawing.Size(56, 28);
             this.label1.TabIndex = 1;
             this.label1.Text = "Логин";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(206, 19);
+            this.label2.Location = new System.Drawing.Point(168, 18);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 30);
+            this.label2.Size = new System.Drawing.Size(64, 28);
             this.label2.TabIndex = 2;
             this.label2.Text = "Пароль";
             // 
             // textBoxLogin
             // 
-            this.textBoxLogin.Location = new System.Drawing.Point(21, 52);
+            this.textBoxLogin.Location = new System.Drawing.Point(18, 48);
+            this.textBoxLogin.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.textBoxLogin.Name = "textBoxLogin";
-            this.textBoxLogin.Size = new System.Drawing.Size(184, 37);
+            this.textBoxLogin.Size = new System.Drawing.Size(151, 35);
             this.textBoxLogin.TabIndex = 3;
             this.textBoxLogin.Text = "Настя";
             // 
             // textBoxPassword
             // 
-            this.textBoxPassword.Location = new System.Drawing.Point(211, 52);
+            this.textBoxPassword.Location = new System.Drawing.Point(174, 48);
+            this.textBoxPassword.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.textBoxPassword.Name = "textBoxPassword";
-            this.textBoxPassword.Size = new System.Drawing.Size(184, 37);
+            this.textBoxPassword.Size = new System.Drawing.Size(151, 35);
             this.textBoxPassword.TabIndex = 4;
             this.textBoxPassword.Text = "1";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 28F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(413, 147);
+            this.ClientSize = new System.Drawing.Size(338, 139);
             this.Controls.Add(this.textBoxPassword);
             this.Controls.Add(this.textBoxLogin);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonVhod);
-            this.Font = new System.Drawing.Font("Karnac One", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Marta Decor Two", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
-            this.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
+            this.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.Name = "Form1";
             this.Text = "Авторизация";
             this.ResumeLayout(false);
